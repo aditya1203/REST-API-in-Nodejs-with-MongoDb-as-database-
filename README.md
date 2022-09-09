@@ -11,3 +11,9 @@
 # How to install and Run
 #You have to write npm install in terminal it will download all the dependencies and module folder from packet.json
 #Now write npm start to run the server
+
+
+# How to Use the Project
+```
+samasnjdnl
+```
