@@ -21,5 +21,5 @@ Step 2 - Change project directory
 Step 3 - Now open that folder in visual studio code
 Step 4 - Install all dependencies in packet.json 
 npm install
-Step 5 -
+Step 5 - npm start
 ```
