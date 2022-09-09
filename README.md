@@ -23,3 +23,11 @@ Step 4 - Install all dependencies in packet.json
 npm install
 Step 5 - npm start
 ```
+
+
+# Requirement
+```
+Visual Studio Code
+Postman
+mongoDb Atlas Account
+```
